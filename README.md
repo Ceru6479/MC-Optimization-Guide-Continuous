@@ -1,13 +1,8 @@
 # MC-Optimization-Guide
 
-The end-all, be-all optimization guide for various Minecraft versions.
+One of many end-all, be-all optimization guides for various Minecraft versions. Started by Radk6 & continued by me.
 
-**NOTE:**
-This guide only covers performance mods that are deemed "necessary", so duplicate mods that do the same thing (eg. Rubidium and Embeddium, Radon and Starlight, etc.) won't be included.
-
-It also takes a fairly minimalist approach. This means that while there may be a way to squeeze out a couple fps more with additional mods, the mods listed here should be more than enough for smooth and lag-free gameplay.
-
-Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and various Reddit threads, as well as my own testing.
+Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods).
 ## Mods
 
 | Minecraft Version |
@@ -22,9 +17,9 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 | Indicator | Explanation |
 |:---:|:---:|
-| Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
-| Server | Install if you're playing on a singleplayer world OR on a server you're setting up |
-| Both | Performance improvements apply to both client-side and server-side |
+| Client | Mods only YOU need to be running; the server doesn't need to have it enabled. |
+| Server | Mods only the OWNER needs to be running; you don't need to install it. |
+| Both | Mods both YOU & the OWNER need to be running. |
 
 ## [Java stuff](java-n-stuff/java-things.md)
 
@@ -34,12 +29,12 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 Q: Why isn't `mod x` on any of the lists?
 
-A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/additions.md)
-
-Q: Why isn't `version x.y.z` supported?
-
-A: I only maintain lists for Minecraft versions that still see active mod development.
+A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](mods-n-stuff/additions.md)
 
 Q: Will these work on PojavLauncher?
 
-A: Maybe, maybe not. Try it and see. Pojav compatibility isn't a priority since most players are on PC.
+A: Haven't tested & I don't have the resources to do so. Don't expect official support!
+
+Q: Why do this? Why build over someone else's work?
+
+A: I wanted to fork the project to keep it alive as it contains vital information most players with bad computers need to play at a playable framerate.
