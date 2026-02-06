@@ -56,9 +56,9 @@ Brief explanation of what these arguments do:
 
 `-XX:+UseShenandoahGC` - Enables the Shenandoah Garbage Collector. It uses less overhead than Z & stutters less than G1.
 
-`-XX:ShenandoahGCMode=generational` - Makes Shenandoah Generational. Improves performance drastically!
+`-XX:ShenandoahGCMode=generational` - Makes Shenandoah Generational (Experimental in Java 24). Improves performance drastically!
 
-`-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage and boosts performance a bit.
+`-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers (Experimental in Java 24). This feature reduces RAM usage by 10% or more and boosts performance.
 
 `-XX:+UnlockExperimentalVMOptions` - Enables experimental VM options.
 
