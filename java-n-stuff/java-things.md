@@ -14,11 +14,11 @@
 | Forge/NeoForge | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
 | Forge | [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | Use ONLY if you have a mod which doesn't work with Java 25 |
 
-## 1.18.2 - 1.19.2
+## 1.18.2 & 1.19.2
 | Mod Loader | Java | Notes |
 |:---:|:---:|:---:|
 | Fabric | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
-| Forge | [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | - |
+| Forge | [Adoptium Java 24](https://adoptium.net/temurin/releases/?version=24&package=jre) | Compact Object Headers & Generational Shenandoah are experimental and may be unstable. |
 
 ## 1.16.5
 | Mod Loader | Java | Notes |
@@ -43,22 +43,29 @@ Depending on the Java version, different JVM arguments are available. Here's wha
 
 | Java version | JVM arguments |
 |:---:|:---:|
-| Java 25 | `-XX:+UseCompactObjectHeaders -XX:+UseZGC` |
-| Java 21 | `-XX:+UseZGC -XX:+ZGenerational` |
-| Java 8 | `-XX:+UseG1GC` |
+| Java 25 & 24 | `-XX:+UseCompactObjectHeaders -XX:+UseShenandoahGC -XX:ShenandoahGCMode=generational` |
+| Java 21 & 8 | `-XX:+UseG1GC -XX:+UseStringDeduplication` |
 
-**NOTE:** If you have an old CPU or less than 16 GB of total system RAM, I wouldn't recommend using ZGC. G1GC is a better option for such systems.
+**NOTE:** If you have an old CPU or less than 16 GB of total system RAM (like I do), I wouldn't recommend using ZGC. G1GC is a better option for such systems.
 
 Brief explanation of what these arguments do:
 
 `-XX:+UseG1GC` - Enables the G1 Garbage Collector. G1 is the default since Java 9, so the arg is only necessary on Java 8.
 
-`-XX:+UseZGC` - Enables the Z Garbage Collector. It uses more RAM but eliminates GC-related stutters
+`-XX:+UseStringDeduplication` - Removes strings that share the same purpose, may increase stutters slightly. Not available on Shenandoah.
 
-`-XX:+ZGenerational` - Makes ZGC generational. Only necessary on Java 21 as ZGC is generational by default since Java 23.
+`-XX:+UseShenandoahGC` - Enables the Shenandoah Garbage Collector. It uses less overhead than Z & stutters less than G1.
+
+`-XX:ShenandoahGCMode=generational` - Makes Shenandoah Generational. Improves performance drastically!
 
 `-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage and boosts performance a bit.
 
+`-XX:+UnlockExperimentalVMOptions` - Enables experimental VM options.
+
 ### Additional JVM arguments
 
-`-Djava.locale.providers=JRE` Fixes `NNBSP` characters showing up in DateFormat outputs (e.g. near timestamps) on some versions when using Java 20 or newer.
+`-Djava.locale.providers=JRE` Fixes `NNBSP` characters ( ) showing up in DateFormat outputs (e.g. near timestamps) on some versions when using Java 20 or newer.
+
+`-XX:+UseZGC` - Enables the Z Garbage Collector. It uses more RAM & worsens performance but eliminates GC-related stutters. I don't use it personally.
+
+`-XX:+ZGenerational` - Makes ZGC generational, made default by Java 23.
