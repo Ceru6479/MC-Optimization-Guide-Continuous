@@ -10,7 +10,8 @@ My computer's specs, as a point-of-reference:
 
 # Game loading times
 
-This was tested with FTB Interactions Remastered 1.14.1, with a fresh cache to ensure times were consistent. Both Java 21 & 25 are loaded with CleanroomMC 0.3.30 Alpha. [All versions of Java were sourced from Eclipse Adoptium, with time measured by VintageFix 0.6.2.](https://github.com/user-attachments/assets/fda62fa2-b28e-4809-b758-a2e48687aec0)
+This was tested with FTB Interactions Remastered 1.14.1, with a fresh cache to ensure times were consistent. Both Java 21 & 25 are loaded with CleanroomMC 0.3.30 Alpha. All versions of Java were sourced from Eclipse Adoptium, with time measured by VintageFix 0.6.2.
+<img width="815" height="407" alt="Java_Time" src="https://github.com/user-attachments/assets/7d727dee-ebdd-4fcd-9b5d-e212f69297b4" />
 
 Java 8 has middling performance, Java 21 is a major upgrade of itself, and Java 25 is the best around.
 (In percentages, the jump from 8 to 21 is 30%, while 21 to 25 is 17%)
