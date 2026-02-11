@@ -52,7 +52,7 @@ Brief explanation of what these arguments do:
 
 `-XX:+UseG1GC` - Enables the G1 Garbage Collector. G1 is the default since Java 9, so the arg is only necessary on Java 8.
 
-`-XX:+UseStringDeduplication` - Removes strings that share the same purpose, may increase stutters slightly. Not available on Shenandoah.
+`-XX:+UseStringDeduplication` - Removes strings that share the same purpose. Reduces memory footprint by ~10%, may increase stutters slightly. Not available on Shenandoah.
 
 `-XX:+UseShenandoahGC` - Enables the Shenandoah Garbage Collector. It uses less overhead than Z & stutters less than G1.
 
