@@ -9,7 +9,7 @@
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AI Improvements, Bed Patch, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Spark, Toast Control and Unloader
 4. Install Forgelin-Continuous, Fugue, Had Enough Items, LibrarianLib-Continuous, Roughly Enough IDs and Scalar Legacy
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+5. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -26,7 +26,7 @@ Known issues: None (yet?)
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Fast Leaf Decay, Just Enough Items, Quark and SwingThroughGrass
 4. Install Fugue, Had Enough Items, Quark: RotN Edition and Scalar Legacy
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+5. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -44,7 +44,7 @@ Known issues: None (yet?)
 3. Update Corail Tombstone and SimplyJetpacks 2
 4. Remove BetterFPS, Born in a Barn, Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy 
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -62,7 +62,7 @@ Known issues: None (yet?)
 3. Update Corail Tombstone
 4. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, JustEnoughIDs, NetherPortalFix, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -79,7 +79,7 @@ Known issues: None (yet?)
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFps, Bigger Packets Please, Clumps, Diet Hopper, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Phospor, Shadowfacts' Forgelin, Toast Control
 4. Install Forgelin-Continous, Fugue, Had Enough Items and Scalar Legacy 
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+5. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -97,7 +97,7 @@ Known issues: None (yet?)
 3. Update JEI Utilities, Recurrent Complex, VintageFix and Universal Tweaks
 4. Remove Clumps, ConfigAnytime, FermiumASM, Just Enough Items, MixinBooter, NotEnoughIDs and Spark
 5. Install Fugue, Had Enough Items, Roughly Enough IDs, Flare and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -115,7 +115,7 @@ Known issues: None (yet?)
 3. Update ContentTweaker, Corail Tombstone, CraftTweaker, ModTweaker, Simply Jetpacks 2, Sledgehammer and Solar Flux Reborn
 4. Remove BetterFPS, Clumps, Fast Leaf Decay, FastWorkbench, FoamFix, HelpFixer, Just Enough Items, LagGoggles, LibrarianLib, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, TickCentral, ToastControl, VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, LibrarianLib-Continuous, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 7. Go to the instance folder -> scripts -> Recipes -> Misc Recipes.zs, scroll down to `Ankh of Pray` and replace `tombstone:ankh_of_pray` with `tombstone:ankh_of_prayer`
 
 Known issues: None (yet?)
@@ -134,7 +134,7 @@ Known issues: None (yet?)
 3. Update CensoredASM, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
 4. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
  
 Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 
@@ -152,7 +152,7 @@ Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 3. Update Chisel, Dynamic Trees, Dynamic Trees - Traverse, JourneyMap and MineTogether
 4. Remove BetterFPS, Clumps, Diet Hopper, Fast Leaf Decay, FastFurance, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, Phosphor, RandomPatches, Shadowfacts' Forgelin and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -170,7 +170,7 @@ Known issues: None (yet?)
 3. Update Alfheim, Had Enough Items, Railcraft, Red Core, UniversalTweaks and VintageFix
 4. Remove BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Shadowfacts' Forgelin
 5. Install Forgelin-Continuous, Fugue and Scalar Legacy 
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -188,9 +188,7 @@ Known issues: None (yet?)
 3. Update CraftTweaker, Logistics Pipes and Sledgehammer
 4. Remove AI Improvements, BetterFPS, Bigger Packets Please, Clumps, Diet Hopper, DupeFix Project, FastWorkbench, FoamFix, Just Enough Items, LibrarianLib, Logistics Bridge, MixinBootstrap, Mouse Tweaks, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, LibrarianLib-Continuous, Logistics Bridge Extended Life, Mouse Tweaks Unofficial and Scalar Legacy
-6. Run the game once (it will crash)
-7. Add `org.eientei.gtce2oc.GTCE2OC` to `S:Reflection Patch Target List` in `fugue.cfg`
-8. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -207,7 +205,7 @@ Known issues: None (yet?)
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Born in a Barn, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Performant, Phosphor, RandomPatches, Not Enough IDs, Surge, ToastControl and Unloader
 4. Install Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly 
+5. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly 
 
 Known issues: None (yet?)
 
@@ -225,7 +223,7 @@ Known issues: None (yet?)
 3. Update Had Enough Items
 4. Remove BetterFPS, FastFurnace, FastWorkbench, FoamFix, LibrarianLib, NotEnoughIDs, Performant, RandomPatches, Shadowfacts' Forgelin, Spark, Surge and SwingThroughGrass
 5. Install Forgelin-Continuous, Fugue, LibrarianLib-Continuous, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly 
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly 
 
 Known issues: None (yet?)
 
@@ -244,7 +242,7 @@ Known issues: None (yet?)
 4. Remove BetterFPS, Clumps, ConfigAnytime, EntityCulling, FastWorkbench, FoamFix, Max Potion ID Extender, MixinBooter, MixinBootstrap, NotEnoughIDs, Old Java Warning, RandomPatches, Shadowfacts' Forgelin and Spark
 5. Install Forgelin-Continuous, Fugue, Roughly Enough IDs and Scalar Legacy
 6. Add `S:"net.minecraft.client.renderer.EntityRenderer"=field_78504_Q` to "final fields patching list" in `fugue.cfg`
-7. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
+7. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
 8. Set Mipmap levels to 4 in the settings
 
 Known issues: None (yet?)
@@ -263,7 +261,7 @@ Known issues: None (yet?)
 3. Update Collective, Corail Tombstone and Simply Jetpacks 2 to their latest versions
 4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -281,7 +279,7 @@ Known issues: None (yet?)
 3. Update Corail Tombstone, PlusTiC and Simply Jetpacks 2 to their latest versions
 4. Remove AI Improvements, AttributeFix, BetterFPS, Clumps, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
+6. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
 
@@ -472,13 +470,13 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the SkyFactory 4 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Flux Networks to the latest version
+3. Update Flux Networks and CraftTweaker2 to the latest version
 4. Replace Mekanism and Mekanism Generators with their "Community Edition" equivalents
 5. Remove Bed Patch, FastFurnace, FastWorkbench, FoamFix, Mercurius, Shadowfacts' Forgelin, Surge, SwingThroughGrass, and Toast Control 
 6. Install Forgelin-Continuous, Fugue, and Scalar Legacy
 7. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: Had Enough Items crashes with Resource Hogs & CraftTweaker items do not
+Known issues: Resource Hogs crashes with Had Enough Items installed
 
 </details>
 
