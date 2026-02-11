@@ -476,7 +476,7 @@ Known issues: None (yet?)
 6. Install Forgelin-Continuous, Fugue, and Scalar Legacy
 7. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: Resource Hogs crashes with Had Enough Items installed
+Known issues: Had Enough Items does not work with this pack.
 
 </details>
 
