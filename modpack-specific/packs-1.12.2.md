@@ -476,7 +476,7 @@ Known issues: None (yet?)
 6. Install Forgelin-Continuous, Fugue, and Scalar Legacy
 7. Make sure you have all of [these mods](mods-n-stuff/1.12.2.md) installed and configured accordingly
 
-Known issues: Had Enough Items does not work with this pack.
+Known issues: Had Enough Items does not work with this pack (Crashes with Resource Hogs, removing Resource Hogs breaks CraftTweaker, which breaks the pack).
 
 </details>
 
