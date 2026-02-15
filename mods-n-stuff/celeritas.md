@@ -5,11 +5,12 @@ Celeritas is a port of Embeddium for various versions of Minecraft. This plans t
 | Version | Download | Dependency | 
 |:---:|:---:|:---:|
 | Beta 1.7.3 | Not available. | [Legacy LWJGL3 (Ornithe)](https://modrinth.com/mod/moehreag-legacy-lwjgl3)
-| 1.7.10 | Use Angelica instead: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angelica) [Modrinth](https://modrinth.com/mod/angelica) | [Legacy LWJGL3 (Ornithe)](https://modrinth.com/mod/moehreag-legacy-lwjgl3)
+| 1.7.10 | [Use Angelica instead.](https://www.curseforge.com/minecraft/mc-mods/angelica) | [Legacy LWJGL3 (Ornithe)](https://modrinth.com/mod/moehreag-legacy-lwjgl3)
 | 1.8.9 | Not available. | [Legacy LWJGL3 (Ornithe)](https://modrinth.com/mod/moehreag-legacy-lwjgl3)
 | 1.10.2 | Not available. |[Legacy LWJGL3 (Ornithe)](https://modrinth.com/mod/moehreag-legacy-lwjgl3)
 | 1.12.2 | [Kappa Maintainer's auto-build.](https://github.com/kappa-maintainer/Celeritas-auto-build/releases) | None required!
 | 1.14.4 | Not available. | None required!
+| 1.15.2 | Not available. | None required!
 | 1.16.5 | Not available. | None required!
 | 1.18.2 | Not available. | None required!
 | 1.19.2 | Not available. | None required!
