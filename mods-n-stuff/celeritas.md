@@ -22,14 +22,14 @@ You can find builds for various versions here: https://github.com/DHJComical/cel
 | 1.20.1 | [Forge, under "celeritas-forge-mc20.1-<Version>.jar"](https://github.com/DHJComical/celeritas-mirror/releases), but I recommend [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) instead. [Fabric, under "celeritas-fabric-mc20.1-<Version>.jar"](https://github.com/DHJComical/celeritas-mirror/releases), but I recommend [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) instead.| None required?
 | 1.21.1 | NeoForge, under ["celeritas-neoforge-mc21.1-<Version>.jar"](https://github.com/DHJComical/celeritas-mirror/releases), but I would recommend [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) or [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) instead. Same with Fabric. | None required!
 
-Current known incompatibilities:
+Current known incompatibilities (as of Build 2.4.0-Dev3-20260215):
 
-- Chunk Animator
-- Embeddium (This is technically version 0.3.31)
-- LittleTiles
-- Nothirium
-- Optifine
-- Sodium (This is technically version 0.5.11)
-- Vintagium & its forks
+- Chunk Animator (Mod does not do anything, however the game does not crash)
+- Embeddium (This is basically that anyway)
+- LittleTiles (No LT blocks will render, however the game does not crash)
+- Nothirium (Will crash when booting)
+- Optifine.
+- Sodium (This is basically that anyway)
+- Vintagium & its forks (Will crash when booting)
 
-Shader support isn't currently available, however it is W.I.P.
+I can't guarantee if this mod will work with shaders or not.
